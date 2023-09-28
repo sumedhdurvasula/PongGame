@@ -3,7 +3,7 @@ This is a classic Pong game created using Python and the Pygame library. In this
 
 ## Steps to Play the Game
 
-**1. Copy the code of the file you want to play into a Python file or clone this repository.**
+**1. Copy the code of the file into a Python file in an editor or clone this repository.**
 
 **2. Make sure you have Python installed.**
 
